@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://github.com/Zan1456/Firkaextension/releases">
-    <img src="https://img.shields.io/github/downloads-pre/Zan1456/Firkaextension/total?&logo=github&label=Downloads" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads-pre/Zan1456/Firkaextension/latest/total?style=for-the-badge&logo=github&logoColor=EAF7CC&label=Let%C3%B6lt%C3%A9sek&labelColor=141905&color=A7DC22" alt="Downloads">
   </a>
   <a href="https://discord.gg/6DvjyPAw2T">
-    <img src="https://img.shields.io/discord/1111649116020285532?logo=discord&label=Discord" alt="Discord">
+    <img src="https://img.shields.io/discord/1111649116020285532?style=for-the-badge&logo=discord&logoColor=EAF7CC&label=Discord&labelColor=0D1202&color=A7DC22" alt="Discord">
   </a>
   <a href="https://github.com/Zan1456/Firkaextension/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Zan1456/Firkaextension?color=blue" alt="License">
+    <img src="https://img.shields.io/github/license/Zan1456/Firkaextension?style=for-the-badge&logo=discord&logoColor=EAF7CC&label=Discord&labelColor=0D1202&color=A7DC22" alt="License">
   </a>
 </p>
 
