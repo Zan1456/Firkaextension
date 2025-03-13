@@ -1,0 +1,9 @@
+
+
+*.zip
+META-INF/mozilla.rsa
+META-INF/cose.manifest
+META-INF/cose.sig
+META-INF/manifest.mf
+META-INF/mozilla.sf
+dashboard/KRÉTA Iskolai Alaprendszer.html
