@@ -53,14 +53,14 @@ A bővítmény beállításait a böngésző eszköztárán található Filx iko
 
 A bővítmény jelenleg az alábbi e-KRÉTA oldalakat támogatja:
 
-- Bejelentkezési oldal
-- Kijelentkezési oldal
-- Szerepkör választó
-- Kezdőlap/Faliújság
-- Jegyek/Értékelések
+- Bejelentkezés
+- Kijelentkezés
+- Szerepkörválasztó
 - Órarend
+- Faliújság
 - Hiányzások
-- Profil (csak dizájn)
+- Házi feladatok
+- Jegyek
 
 ## 👥 Csapat
 
