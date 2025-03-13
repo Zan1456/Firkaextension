@@ -85,7 +85,7 @@ A projekt [GNU General Public License v3.0](LICENSE) alatt jelent meg. További 
 
 ## 💬 Kapcsolat
 
-- Discord: [discord.gg/6DvjyPAw2T]([https://dc.refilc.hu](https://discord.gg/6DvjyPAw2T))
+- Discord: [discord.gg/6DvjyPAw2T](https://discord.gg/6DvjyPAw2T)
 - GitHub: [QwIT-Development](https://github.com/QwIT-Development/)
 
 ---
