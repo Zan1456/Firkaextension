@@ -56,7 +56,6 @@ A bővítmény jelenleg az alábbi e-KRÉTA oldalakat támogatja:
 - Bejelentkezési oldal
 - Kijelentkezési oldal
 - Szerepkör választó
-- Elfelejtett jelszó (részlegesen)
 - Kezdőlap/Faliújság
 - Jegyek/Értékelések
 - Órarend
