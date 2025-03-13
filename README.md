@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/WugwlzI.png" width="150">
-  <h1 align="center">Firxa</h1>
+  <h1 align="center">Firka extension</h1>
 </p>
 
 <p align="center">
@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zan1456/filc-extension/releases">
-    <img src="https://img.shields.io/github/downloads-pre/Zan1456/filc-extension/total?&logo=github&label=Downloads" alt="Downloads">
+  <a href="https://github.com/Zan1456/Firkaextension/releases">
+    <img src="https://img.shields.io/github/downloads-pre/Zan1456/Firkaextension/total?&logo=github&label=Downloads" alt="Downloads">
   </a>
-  <a href="https://dc.refilc.hu">
+  <a href="https://discord.gg/6DvjyPAw2T">
     <img src="https://img.shields.io/discord/1111649116020285532?logo=discord&label=Discord" alt="Discord">
   </a>
-  <a href="https://github.com/Zan1456/filc-extension/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Zan1456/filc-extension?color=blue" alt="License">
+  <a href="https://github.com/Zan1456/Firkaextension/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Zan1456/Firkaextension?color=blue" alt="License">
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 ## 🚀 Telepítés
 
-1. Töltsd le a legfrissebb verziót a [Releases](https://github.com/Zan1456/filc-extension/releases) oldalról
+1. Töltsd le a legfrissebb verziót a [Releases](https://github.com/Zan1456/Firkaextension/releases) oldalról
 2. Csomagold ki a letöltött fájlt
 3. Chrome böngészőben navigálj a `chrome://extensions` oldalra
 4. Kapcsold be a "Fejlesztői mód"-ot a jobb felső sarokban
@@ -85,8 +85,8 @@ A projekt [GNU General Public License v3.0](LICENSE) alatt jelent meg. További 
 
 ## 💬 Kapcsolat
 
-- Discord: [dc.refilc.hu](https://dc.refilc.hu)
-- GitHub: [github.com/refilc](https://github.com/refilc)
+- Discord: [discord.gg/6DvjyPAw2T]([https://dc.refilc.hu](https://discord.gg/6DvjyPAw2T))
+- GitHub: [QwIT-Development](https://github.com/QwIT-Development/)
 
 ---
 
